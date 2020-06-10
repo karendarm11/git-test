@@ -1,5 +1,3 @@
-Hola mundo Karen
+Hola mundo
 
-Otra nueva cosa agregada
-
-Segunda cosa agregada
+Cambio despues del checkout
